@@ -1,0 +1,337 @@
+D:\rohit mase\QuantityMeasurementApp\QuantityMeasurementAppAPI\QuantityMeasurementAPI\bin\Debug\net10.0\appsettings.Development.json
+D:\rohit mase\QuantityMeasurementApp\QuantityMeasurementAppAPI\QuantityMeasurementAPI\bin\Debug\net10.0\appsettings.json
+D:\rohit mase\QuantityMeasurementApp\QuantityMeasurementAppAPI\QuantityMeasurementAPI\bin\Debug\net10.0\QuantityMeasurementAPI.staticwebassets.endpoints.json
+D:\rohit mase\QuantityMeasurementApp\QuantityMeasurementAppAPI\QuantityMeasurementAPI\bin\Debug\net10.0\QuantityMeasurementAPI.exe
+D:\rohit mase\QuantityMeasurementApp\QuantityMeasurementAppAPI\QuantityMeasurementAPI\bin\Debug\net10.0\QuantityMeasurementAPI.deps.json
+D:\rohit mase\QuantityMeasurementApp\QuantityMeasurementAppAPI\QuantityMeasurementAPI\bin\Debug\net10.0\QuantityMeasurementAPI.runtimeconfig.json
+D:\rohit mase\QuantityMeasurementApp\QuantityMeasurementAppAPI\QuantityMeasurementAPI\bin\Debug\net10.0\QuantityMeasurementAPI.dll
+D:\rohit mase\QuantityMeasurementApp\QuantityMeasurementAppAPI\QuantityMeasurementAPI\bin\Debug\net10.0\QuantityMeasurementAPI.pdb
+D:\rohit mase\QuantityMeasurementApp\QuantityMeasurementAppAPI\QuantityMeasurementAPI\bin\Debug\net10.0\Microsoft.AspNetCore.OpenApi.dll
+D:\rohit mase\QuantityMeasurementApp\QuantityMeasurementAppAPI\QuantityMeasurementAPI\bin\Debug\net10.0\Microsoft.OpenApi.dll
+D:\rohit mase\QuantityMeasurementApp\QuantityMeasurementAppAPI\QuantityMeasurementAPI\bin\Debug\net10.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\rohit mase\QuantityMeasurementApp\QuantityMeasurementAppAPI\QuantityMeasurementAPI\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\rohit mase\QuantityMeasurementApp\QuantityMeasurementAppAPI\QuantityMeasurementAPI\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\rohit mase\QuantityMeasurementApp\QuantityMeasurementAppAPI\QuantityMeasurementAPI\obj\Debug\net10.0\QuantityMeasurementAPI.csproj.AssemblyReference.cache
+D:\rohit mase\QuantityMeasurementApp\QuantityMeasurementAppAPI\QuantityMeasurementAPI\obj\Debug\net10.0\rpswa.dswa.cache.json
+D:\rohit mase\QuantityMeasurementApp\QuantityMeasurementAppAPI\QuantityMeasurementAPI\obj\Debug\net10.0\QuantityMeasurementAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\rohit mase\QuantityMeasurementApp\QuantityMeasurementAppAPI\QuantityMeasurementAPI\obj\Debug\net10.0\QuantityMeasurementAPI.AssemblyInfoInputs.cache
+D:\rohit mase\QuantityMeasurementApp\QuantityMeasurementAppAPI\QuantityMeasurementAPI\obj\Debug\net10.0\QuantityMeasurementAPI.AssemblyInfo.cs
+D:\rohit mase\QuantityMeasurementApp\QuantityMeasurementAppAPI\QuantityMeasurementAPI\obj\Debug\net10.0\QuantityMeasurementAPI.csproj.CoreCompileInputs.cache
+D:\rohit mase\QuantityMeasurementApp\QuantityMeasurementAppAPI\QuantityMeasurementAPI\obj\Debug\net10.0\QuantityMeasurementAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\rohit mase\QuantityMeasurementApp\QuantityMeasurementAppAPI\QuantityMeasurementAPI\obj\Debug\net10.0\QuantityMeasurementAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\rohit mase\QuantityMeasurementApp\QuantityMeasurementAppAPI\QuantityMeasurementAPI\obj\Debug\net10.0\rjimswa.dswa.cache.json
+D:\rohit mase\QuantityMeasurementApp\QuantityMeasurementAppAPI\QuantityMeasurementAPI\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+D:\rohit mase\QuantityMeasurementApp\QuantityMeasurementAppAPI\QuantityMeasurementAPI\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+D:\rohit mase\QuantityMeasurementApp\QuantityMeasurementAppAPI\QuantityMeasurementAPI\obj\Debug\net10.0\scopedcss\bundle\QuantityMeasurementAPI.styles.css
+D:\rohit mase\QuantityMeasurementApp\QuantityMeasurementAppAPI\QuantityMeasurementAPI\obj\Debug\net10.0\staticwebassets.build.json
+D:\rohit mase\QuantityMeasurementApp\QuantityMeasurementAppAPI\QuantityMeasurementAPI\obj\Debug\net10.0\staticwebassets.build.json.cache
+D:\rohit mase\QuantityMeasurementApp\QuantityMeasurementAppAPI\QuantityMeasurementAPI\obj\Debug\net10.0\staticwebassets.development.json
+D:\rohit mase\QuantityMeasurementApp\QuantityMeasurementAppAPI\QuantityMeasurementAPI\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+D:\rohit mase\QuantityMeasurementApp\QuantityMeasurementAppAPI\QuantityMeasurementAPI\obj\Debug\net10.0\swae.build.ex.cache
+D:\rohit mase\QuantityMeasurementApp\QuantityMeasurementAppAPI\QuantityMeasurementAPI\obj\Debug\net10.0\Quantity.37C00F13.Up2Date
+D:\rohit mase\QuantityMeasurementApp\QuantityMeasurementAppAPI\QuantityMeasurementAPI\obj\Debug\net10.0\QuantityMeasurementAPI.dll
+D:\rohit mase\QuantityMeasurementApp\QuantityMeasurementAppAPI\QuantityMeasurementAPI\obj\Debug\net10.0\refint\QuantityMeasurementAPI.dll
+D:\rohit mase\QuantityMeasurementApp\QuantityMeasurementAppAPI\QuantityMeasurementAPI\obj\Debug\net10.0\QuantityMeasurementAPI.pdb
+D:\rohit mase\QuantityMeasurementApp\QuantityMeasurementAppAPI\QuantityMeasurementAPI\obj\Debug\net10.0\QuantityMeasurementAPI.genruntimeconfig.cache
+D:\rohit mase\QuantityMeasurementApp\QuantityMeasurementAppAPI\QuantityMeasurementAPI\obj\Debug\net10.0\ref\QuantityMeasurementAPI.dll
+D:\rohit mase\QuantityMeasurementApp\QuantityMeasurementAppAPI\QuantityMeasurementAPI\bin\Debug\net10.0\Azure.Core.dll
+D:\rohit mase\QuantityMeasurementApp\QuantityMeasurementAppAPI\QuantityMeasurementAPI\bin\Debug\net10.0\Azure.Identity.dll
+D:\rohit mase\QuantityMeasurementApp\QuantityMeasurementAppAPI\QuantityMeasurementAPI\bin\Debug\net10.0\Humanizer.dll
+D:\rohit mase\QuantityMeasurementApp\QuantityMeasurementAppAPI\QuantityMeasurementAPI\bin\Debug\net10.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\rohit mase\QuantityMeasurementApp\QuantityMeasurementAppAPI\QuantityMeasurementAPI\bin\Debug\net10.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\rohit mase\QuantityMeasurementApp\QuantityMeasurementAppAPI\QuantityMeasurementAPI\bin\Debug\net10.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\rohit mase\QuantityMeasurementApp\QuantityMeasurementAppAPI\QuantityMeasurementAPI\bin\Debug\net10.0\Microsoft.Build.Framework.dll
+D:\rohit mase\QuantityMeasurementApp\QuantityMeasurementAppAPI\QuantityMeasurementAPI\bin\Debug\net10.0\Microsoft.CodeAnalysis.dll
+D:\rohit mase\QuantityMeasurementApp\QuantityMeasurementAppAPI\QuantityMeasurementAPI\bin\Debug\net10.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\rohit mase\QuantityMeasurementApp\QuantityMeasurementAppAPI\QuantityMeasurementAPI\bin\Debug\net10.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\rohit mase\QuantityMeasurementApp\QuantityMeasurementAppAPI\QuantityMeasurementAPI\bin\Debug\net10.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\rohit mase\QuantityMeasurementApp\QuantityMeasurementAppAPI\QuantityMeasurementAPI\bin\Debug\net10.0\Microsoft.CodeAnalysis.ExternalAccess.RazorCompiler.dll
+D:\rohit mase\QuantityMeasurementApp\QuantityMeasurementAppAPI\QuantityMeasurementAPI\bin\Debug\net10.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\rohit mase\QuantityMeasurementApp\QuantityMeasurementAppAPI\QuantityMeasurementAPI\bin\Debug\net10.0\Microsoft.Data.SqlClient.dll
+D:\rohit mase\QuantityMeasurementApp\QuantityMeasurementAppAPI\QuantityMeasurementAPI\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.dll
+D:\rohit mase\QuantityMeasurementApp\QuantityMeasurementAppAPI\QuantityMeasurementAPI\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\rohit mase\QuantityMeasurementApp\QuantityMeasurementAppAPI\QuantityMeasurementAPI\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\rohit mase\QuantityMeasurementApp\QuantityMeasurementAppAPI\QuantityMeasurementAPI\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\rohit mase\QuantityMeasurementApp\QuantityMeasurementAppAPI\QuantityMeasurementAPI\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\rohit mase\QuantityMeasurementApp\QuantityMeasurementAppAPI\QuantityMeasurementAPI\bin\Debug\net10.0\Microsoft.Extensions.DependencyModel.dll
+D:\rohit mase\QuantityMeasurementApp\QuantityMeasurementAppAPI\QuantityMeasurementAPI\bin\Debug\net10.0\Microsoft.Identity.Client.dll
+D:\rohit mase\QuantityMeasurementApp\QuantityMeasurementAppAPI\QuantityMeasurementAPI\bin\Debug\net10.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\rohit mase\QuantityMeasurementApp\QuantityMeasurementAppAPI\QuantityMeasurementAPI\bin\Debug\net10.0\Microsoft.IdentityModel.Abstractions.dll
+D:\rohit mase\QuantityMeasurementApp\QuantityMeasurementAppAPI\QuantityMeasurementAPI\bin\Debug\net10.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\rohit mase\QuantityMeasurementApp\QuantityMeasurementAppAPI\QuantityMeasurementAPI\bin\Debug\net10.0\Microsoft.IdentityModel.Logging.dll
+D:\rohit mase\QuantityMeasurementApp\QuantityMeasurementAppAPI\QuantityMeasurementAPI\bin\Debug\net10.0\Microsoft.IdentityModel.Protocols.dll
+D:\rohit mase\QuantityMeasurementApp\QuantityMeasurementAppAPI\QuantityMeasurementAPI\bin\Debug\net10.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\rohit mase\QuantityMeasurementApp\QuantityMeasurementAppAPI\QuantityMeasurementAPI\bin\Debug\net10.0\Microsoft.IdentityModel.Tokens.dll
+D:\rohit mase\QuantityMeasurementApp\QuantityMeasurementAppAPI\QuantityMeasurementAPI\bin\Debug\net10.0\Microsoft.SqlServer.Server.dll
+D:\rohit mase\QuantityMeasurementApp\QuantityMeasurementAppAPI\QuantityMeasurementAPI\bin\Debug\net10.0\Microsoft.VisualStudio.SolutionPersistence.dll
+D:\rohit mase\QuantityMeasurementApp\QuantityMeasurementAppAPI\QuantityMeasurementAPI\bin\Debug\net10.0\Mono.TextTemplating.dll
+D:\rohit mase\QuantityMeasurementApp\QuantityMeasurementAppAPI\QuantityMeasurementAPI\bin\Debug\net10.0\Newtonsoft.Json.dll
+D:\rohit mase\QuantityMeasurementApp\QuantityMeasurementAppAPI\QuantityMeasurementAPI\bin\Debug\net10.0\System.ClientModel.dll
+D:\rohit mase\QuantityMeasurementApp\QuantityMeasurementAppAPI\QuantityMeasurementAPI\bin\Debug\net10.0\System.CodeDom.dll
+D:\rohit mase\QuantityMeasurementApp\QuantityMeasurementAppAPI\QuantityMeasurementAPI\bin\Debug\net10.0\System.Composition.AttributedModel.dll
+D:\rohit mase\QuantityMeasurementApp\QuantityMeasurementAppAPI\QuantityMeasurementAPI\bin\Debug\net10.0\System.Composition.Convention.dll
+D:\rohit mase\QuantityMeasurementApp\QuantityMeasurementAppAPI\QuantityMeasurementAPI\bin\Debug\net10.0\System.Composition.Hosting.dll
+D:\rohit mase\QuantityMeasurementApp\QuantityMeasurementAppAPI\QuantityMeasurementAPI\bin\Debug\net10.0\System.Composition.Runtime.dll
+D:\rohit mase\QuantityMeasurementApp\QuantityMeasurementAppAPI\QuantityMeasurementAPI\bin\Debug\net10.0\System.Composition.TypedParts.dll
+D:\rohit mase\QuantityMeasurementApp\QuantityMeasurementAppAPI\QuantityMeasurementAPI\bin\Debug\net10.0\System.Configuration.ConfigurationManager.dll
+D:\rohit mase\QuantityMeasurementApp\QuantityMeasurementAppAPI\QuantityMeasurementAPI\bin\Debug\net10.0\System.IdentityModel.Tokens.Jwt.dll
+D:\rohit mase\QuantityMeasurementApp\QuantityMeasurementAppAPI\QuantityMeasurementAPI\bin\Debug\net10.0\System.Memory.Data.dll
+D:\rohit mase\QuantityMeasurementApp\QuantityMeasurementAppAPI\QuantityMeasurementAPI\bin\Debug\net10.0\System.Security.Cryptography.ProtectedData.dll
+D:\rohit mase\QuantityMeasurementApp\QuantityMeasurementAppAPI\QuantityMeasurementAPI\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\rohit mase\QuantityMeasurementApp\QuantityMeasurementAppAPI\QuantityMeasurementAPI\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\rohit mase\QuantityMeasurementApp\QuantityMeasurementAppAPI\QuantityMeasurementAPI\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\rohit mase\QuantityMeasurementApp\QuantityMeasurementAppAPI\QuantityMeasurementAPI\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\rohit mase\QuantityMeasurementApp\QuantityMeasurementAppAPI\QuantityMeasurementAPI\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\rohit mase\QuantityMeasurementApp\QuantityMeasurementAppAPI\QuantityMeasurementAPI\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\rohit mase\QuantityMeasurementApp\QuantityMeasurementAppAPI\QuantityMeasurementAPI\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\rohit mase\QuantityMeasurementApp\QuantityMeasurementAppAPI\QuantityMeasurementAPI\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\rohit mase\QuantityMeasurementApp\QuantityMeasurementAppAPI\QuantityMeasurementAPI\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\rohit mase\QuantityMeasurementApp\QuantityMeasurementAppAPI\QuantityMeasurementAPI\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\rohit mase\QuantityMeasurementApp\QuantityMeasurementAppAPI\QuantityMeasurementAPI\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\rohit mase\QuantityMeasurementApp\QuantityMeasurementAppAPI\QuantityMeasurementAPI\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\rohit mase\QuantityMeasurementApp\QuantityMeasurementAppAPI\QuantityMeasurementAPI\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\rohit mase\QuantityMeasurementApp\QuantityMeasurementAppAPI\QuantityMeasurementAPI\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\rohit mase\QuantityMeasurementApp\QuantityMeasurementAppAPI\QuantityMeasurementAPI\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\rohit mase\QuantityMeasurementApp\QuantityMeasurementAppAPI\QuantityMeasurementAPI\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\rohit mase\QuantityMeasurementApp\QuantityMeasurementAppAPI\QuantityMeasurementAPI\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\rohit mase\QuantityMeasurementApp\QuantityMeasurementAppAPI\QuantityMeasurementAPI\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\rohit mase\QuantityMeasurementApp\QuantityMeasurementAppAPI\QuantityMeasurementAPI\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\rohit mase\QuantityMeasurementApp\QuantityMeasurementAppAPI\QuantityMeasurementAPI\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\rohit mase\QuantityMeasurementApp\QuantityMeasurementAppAPI\QuantityMeasurementAPI\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\rohit mase\QuantityMeasurementApp\QuantityMeasurementAppAPI\QuantityMeasurementAPI\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\rohit mase\QuantityMeasurementApp\QuantityMeasurementAppAPI\QuantityMeasurementAPI\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\rohit mase\QuantityMeasurementApp\QuantityMeasurementAppAPI\QuantityMeasurementAPI\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\rohit mase\QuantityMeasurementApp\QuantityMeasurementAppAPI\QuantityMeasurementAPI\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\rohit mase\QuantityMeasurementApp\QuantityMeasurementAppAPI\QuantityMeasurementAPI\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\rohit mase\QuantityMeasurementApp\QuantityMeasurementAppAPI\QuantityMeasurementAPI\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\rohit mase\QuantityMeasurementApp\QuantityMeasurementAppAPI\QuantityMeasurementAPI\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\rohit mase\QuantityMeasurementApp\QuantityMeasurementAppAPI\QuantityMeasurementAPI\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\rohit mase\QuantityMeasurementApp\QuantityMeasurementAppAPI\QuantityMeasurementAPI\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\rohit mase\QuantityMeasurementApp\QuantityMeasurementAppAPI\QuantityMeasurementAPI\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\rohit mase\QuantityMeasurementApp\QuantityMeasurementAppAPI\QuantityMeasurementAPI\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\rohit mase\QuantityMeasurementApp\QuantityMeasurementAppAPI\QuantityMeasurementAPI\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\rohit mase\QuantityMeasurementApp\QuantityMeasurementAppAPI\QuantityMeasurementAPI\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\rohit mase\QuantityMeasurementApp\QuantityMeasurementAppAPI\QuantityMeasurementAPI\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\rohit mase\QuantityMeasurementApp\QuantityMeasurementAppAPI\QuantityMeasurementAPI\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\rohit mase\QuantityMeasurementApp\QuantityMeasurementAppAPI\QuantityMeasurementAPI\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\rohit mase\QuantityMeasurementApp\QuantityMeasurementAppAPI\QuantityMeasurementAPI\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\rohit mase\QuantityMeasurementApp\QuantityMeasurementAppAPI\QuantityMeasurementAPI\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\rohit mase\QuantityMeasurementApp\QuantityMeasurementAppAPI\QuantityMeasurementAPI\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\rohit mase\QuantityMeasurementApp\QuantityMeasurementAppAPI\QuantityMeasurementAPI\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\rohit mase\QuantityMeasurementApp\QuantityMeasurementAppAPI\QuantityMeasurementAPI\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\rohit mase\QuantityMeasurementApp\QuantityMeasurementAppAPI\QuantityMeasurementAPI\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\rohit mase\QuantityMeasurementApp\QuantityMeasurementAppAPI\QuantityMeasurementAPI\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\rohit mase\QuantityMeasurementApp\QuantityMeasurementAppAPI\QuantityMeasurementAPI\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\rohit mase\QuantityMeasurementApp\QuantityMeasurementAppAPI\QuantityMeasurementAPI\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\rohit mase\QuantityMeasurementApp\QuantityMeasurementAppAPI\QuantityMeasurementAPI\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\rohit mase\QuantityMeasurementApp\QuantityMeasurementAppAPI\QuantityMeasurementAPI\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\rohit mase\QuantityMeasurementApp\QuantityMeasurementAppAPI\QuantityMeasurementAPI\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\rohit mase\QuantityMeasurementApp\QuantityMeasurementAppAPI\QuantityMeasurementAPI\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\rohit mase\QuantityMeasurementApp\QuantityMeasurementAppAPI\QuantityMeasurementAPI\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\rohit mase\QuantityMeasurementApp\QuantityMeasurementAppAPI\QuantityMeasurementAPI\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\rohit mase\QuantityMeasurementApp\QuantityMeasurementAppAPI\QuantityMeasurementAPI\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\rohit mase\QuantityMeasurementApp\QuantityMeasurementAppAPI\QuantityMeasurementAPI\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\rohit mase\QuantityMeasurementApp\QuantityMeasurementAppAPI\QuantityMeasurementAPI\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\rohit mase\QuantityMeasurementApp\QuantityMeasurementAppAPI\QuantityMeasurementAPI\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\rohit mase\QuantityMeasurementApp\QuantityMeasurementAppAPI\QuantityMeasurementAPI\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\rohit mase\QuantityMeasurementApp\QuantityMeasurementAppAPI\QuantityMeasurementAPI\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\rohit mase\QuantityMeasurementApp\QuantityMeasurementAppAPI\QuantityMeasurementAPI\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\rohit mase\QuantityMeasurementApp\QuantityMeasurementAppAPI\QuantityMeasurementAPI\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\rohit mase\QuantityMeasurementApp\QuantityMeasurementAppAPI\QuantityMeasurementAPI\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\rohit mase\QuantityMeasurementApp\QuantityMeasurementAppAPI\QuantityMeasurementAPI\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\rohit mase\QuantityMeasurementApp\QuantityMeasurementAppAPI\QuantityMeasurementAPI\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\rohit mase\QuantityMeasurementApp\QuantityMeasurementAppAPI\QuantityMeasurementAPI\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\rohit mase\QuantityMeasurementApp\QuantityMeasurementAppAPI\QuantityMeasurementAPI\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\rohit mase\QuantityMeasurementApp\QuantityMeasurementAppAPI\QuantityMeasurementAPI\bin\Debug\net10.0\cs\Microsoft.Data.SqlClient.resources.dll
+D:\rohit mase\QuantityMeasurementApp\QuantityMeasurementAppAPI\QuantityMeasurementAPI\bin\Debug\net10.0\de\Microsoft.Data.SqlClient.resources.dll
+D:\rohit mase\QuantityMeasurementApp\QuantityMeasurementAppAPI\QuantityMeasurementAPI\bin\Debug\net10.0\es\Microsoft.Data.SqlClient.resources.dll
+D:\rohit mase\QuantityMeasurementApp\QuantityMeasurementAppAPI\QuantityMeasurementAPI\bin\Debug\net10.0\fr\Microsoft.Data.SqlClient.resources.dll
+D:\rohit mase\QuantityMeasurementApp\QuantityMeasurementAppAPI\QuantityMeasurementAPI\bin\Debug\net10.0\it\Microsoft.Data.SqlClient.resources.dll
+D:\rohit mase\QuantityMeasurementApp\QuantityMeasurementAppAPI\QuantityMeasurementAPI\bin\Debug\net10.0\ja\Microsoft.Data.SqlClient.resources.dll
+D:\rohit mase\QuantityMeasurementApp\QuantityMeasurementAppAPI\QuantityMeasurementAPI\bin\Debug\net10.0\ko\Microsoft.Data.SqlClient.resources.dll
+D:\rohit mase\QuantityMeasurementApp\QuantityMeasurementAppAPI\QuantityMeasurementAPI\bin\Debug\net10.0\pl\Microsoft.Data.SqlClient.resources.dll
+D:\rohit mase\QuantityMeasurementApp\QuantityMeasurementAppAPI\QuantityMeasurementAPI\bin\Debug\net10.0\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\rohit mase\QuantityMeasurementApp\QuantityMeasurementAppAPI\QuantityMeasurementAPI\bin\Debug\net10.0\ru\Microsoft.Data.SqlClient.resources.dll
+D:\rohit mase\QuantityMeasurementApp\QuantityMeasurementAppAPI\QuantityMeasurementAPI\bin\Debug\net10.0\tr\Microsoft.Data.SqlClient.resources.dll
+D:\rohit mase\QuantityMeasurementApp\QuantityMeasurementAppAPI\QuantityMeasurementAPI\bin\Debug\net10.0\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\rohit mase\QuantityMeasurementApp\QuantityMeasurementAppAPI\QuantityMeasurementAPI\bin\Debug\net10.0\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\rohit mase\QuantityMeasurementApp\QuantityMeasurementAppAPI\QuantityMeasurementAPI\bin\Debug\net10.0\runtimes\unix\lib\net9.0\Microsoft.Data.SqlClient.dll
+D:\rohit mase\QuantityMeasurementApp\QuantityMeasurementAppAPI\QuantityMeasurementAPI\bin\Debug\net10.0\runtimes\win\lib\net9.0\Microsoft.Data.SqlClient.dll
+D:\rohit mase\QuantityMeasurementApp\QuantityMeasurementAppAPI\QuantityMeasurementAPI\bin\Debug\net10.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\rohit mase\QuantityMeasurementApp\QuantityMeasurementAppAPI\QuantityMeasurementAPI\bin\Debug\net10.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\rohit mase\QuantityMeasurementApp\QuantityMeasurementAppAPI\QuantityMeasurementAPI\bin\Debug\net10.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\rohit mase\QuantityMeasurementApp\QuantityMeasurementAppAPI\QuantityMeasurementAPI\bin\Debug\net10.0\QuantityMeasurementAppBusinessLayer.dll
+D:\rohit mase\QuantityMeasurementApp\QuantityMeasurementAppAPI\QuantityMeasurementAPI\bin\Debug\net10.0\QuantityMeasurementAppModelLayer.dll
+D:\rohit mase\QuantityMeasurementApp\QuantityMeasurementAppAPI\QuantityMeasurementAPI\bin\Debug\net10.0\QuantityMeasurementAppRepositoryLayer.dll
+D:\rohit mase\QuantityMeasurementApp\QuantityMeasurementAppAPI\QuantityMeasurementAPI\bin\Debug\net10.0\QuantityMeasurementAppModelLayer.pdb
+D:\rohit mase\QuantityMeasurementApp\QuantityMeasurementAppAPI\QuantityMeasurementAPI\bin\Debug\net10.0\QuantityMeasurementAppBusinessLayer.pdb
+D:\rohit mase\QuantityMeasurementApp\QuantityMeasurementAppAPI\QuantityMeasurementAPI\bin\Debug\net10.0\QuantityMeasurementAppRepositoryLayer.pdb
+D:\QuantityMeasurementAppAPI\QuantityMeasurementAPI\bin\Debug\net10.0\appsettings.Development.json
+D:\QuantityMeasurementAppAPI\QuantityMeasurementAPI\bin\Debug\net10.0\appsettings.json
+D:\QuantityMeasurementAppAPI\QuantityMeasurementAPI\bin\Debug\net10.0\QuantityMeasurementAPI.staticwebassets.endpoints.json
+D:\QuantityMeasurementAppAPI\QuantityMeasurementAPI\bin\Debug\net10.0\QuantityMeasurementAPI.exe
+D:\QuantityMeasurementAppAPI\QuantityMeasurementAPI\bin\Debug\net10.0\QuantityMeasurementAPI.deps.json
+D:\QuantityMeasurementAppAPI\QuantityMeasurementAPI\bin\Debug\net10.0\QuantityMeasurementAPI.runtimeconfig.json
+D:\QuantityMeasurementAppAPI\QuantityMeasurementAPI\bin\Debug\net10.0\QuantityMeasurementAPI.dll
+D:\QuantityMeasurementAppAPI\QuantityMeasurementAPI\bin\Debug\net10.0\QuantityMeasurementAPI.pdb
+D:\QuantityMeasurementAppAPI\QuantityMeasurementAPI\bin\Debug\net10.0\Azure.Core.dll
+D:\QuantityMeasurementAppAPI\QuantityMeasurementAPI\bin\Debug\net10.0\Azure.Identity.dll
+D:\QuantityMeasurementAppAPI\QuantityMeasurementAPI\bin\Debug\net10.0\Humanizer.dll
+D:\QuantityMeasurementAppAPI\QuantityMeasurementAPI\bin\Debug\net10.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\QuantityMeasurementAppAPI\QuantityMeasurementAPI\bin\Debug\net10.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\QuantityMeasurementAppAPI\QuantityMeasurementAPI\bin\Debug\net10.0\Microsoft.AspNetCore.OpenApi.dll
+D:\QuantityMeasurementAppAPI\QuantityMeasurementAPI\bin\Debug\net10.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\QuantityMeasurementAppAPI\QuantityMeasurementAPI\bin\Debug\net10.0\Microsoft.Bcl.Cryptography.dll
+D:\QuantityMeasurementAppAPI\QuantityMeasurementAPI\bin\Debug\net10.0\Microsoft.Build.Framework.dll
+D:\QuantityMeasurementAppAPI\QuantityMeasurementAPI\bin\Debug\net10.0\Microsoft.CodeAnalysis.dll
+D:\QuantityMeasurementAppAPI\QuantityMeasurementAPI\bin\Debug\net10.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\QuantityMeasurementAppAPI\QuantityMeasurementAPI\bin\Debug\net10.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\QuantityMeasurementAppAPI\QuantityMeasurementAPI\bin\Debug\net10.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\QuantityMeasurementAppAPI\QuantityMeasurementAPI\bin\Debug\net10.0\Microsoft.CodeAnalysis.ExternalAccess.RazorCompiler.dll
+D:\QuantityMeasurementAppAPI\QuantityMeasurementAPI\bin\Debug\net10.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\QuantityMeasurementAppAPI\QuantityMeasurementAPI\bin\Debug\net10.0\Microsoft.Data.SqlClient.dll
+D:\QuantityMeasurementAppAPI\QuantityMeasurementAPI\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.dll
+D:\QuantityMeasurementAppAPI\QuantityMeasurementAPI\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\QuantityMeasurementAppAPI\QuantityMeasurementAPI\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\QuantityMeasurementAppAPI\QuantityMeasurementAPI\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\QuantityMeasurementAppAPI\QuantityMeasurementAPI\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\QuantityMeasurementAppAPI\QuantityMeasurementAPI\bin\Debug\net10.0\Microsoft.Extensions.DependencyModel.dll
+D:\QuantityMeasurementAppAPI\QuantityMeasurementAPI\bin\Debug\net10.0\Microsoft.Identity.Client.dll
+D:\QuantityMeasurementAppAPI\QuantityMeasurementAPI\bin\Debug\net10.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\QuantityMeasurementAppAPI\QuantityMeasurementAPI\bin\Debug\net10.0\Microsoft.IdentityModel.Abstractions.dll
+D:\QuantityMeasurementAppAPI\QuantityMeasurementAPI\bin\Debug\net10.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\QuantityMeasurementAppAPI\QuantityMeasurementAPI\bin\Debug\net10.0\Microsoft.IdentityModel.Logging.dll
+D:\QuantityMeasurementAppAPI\QuantityMeasurementAPI\bin\Debug\net10.0\Microsoft.IdentityModel.Protocols.dll
+D:\QuantityMeasurementAppAPI\QuantityMeasurementAPI\bin\Debug\net10.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\QuantityMeasurementAppAPI\QuantityMeasurementAPI\bin\Debug\net10.0\Microsoft.IdentityModel.Tokens.dll
+D:\QuantityMeasurementAppAPI\QuantityMeasurementAPI\bin\Debug\net10.0\Microsoft.OpenApi.dll
+D:\QuantityMeasurementAppAPI\QuantityMeasurementAPI\bin\Debug\net10.0\Microsoft.SqlServer.Server.dll
+D:\QuantityMeasurementAppAPI\QuantityMeasurementAPI\bin\Debug\net10.0\Microsoft.VisualStudio.SolutionPersistence.dll
+D:\QuantityMeasurementAppAPI\QuantityMeasurementAPI\bin\Debug\net10.0\Mono.TextTemplating.dll
+D:\QuantityMeasurementAppAPI\QuantityMeasurementAPI\bin\Debug\net10.0\Newtonsoft.Json.dll
+D:\QuantityMeasurementAppAPI\QuantityMeasurementAPI\bin\Debug\net10.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\QuantityMeasurementAppAPI\QuantityMeasurementAPI\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\QuantityMeasurementAppAPI\QuantityMeasurementAPI\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\QuantityMeasurementAppAPI\QuantityMeasurementAPI\bin\Debug\net10.0\System.ClientModel.dll
+D:\QuantityMeasurementAppAPI\QuantityMeasurementAPI\bin\Debug\net10.0\System.CodeDom.dll
+D:\QuantityMeasurementAppAPI\QuantityMeasurementAPI\bin\Debug\net10.0\System.Composition.AttributedModel.dll
+D:\QuantityMeasurementAppAPI\QuantityMeasurementAPI\bin\Debug\net10.0\System.Composition.Convention.dll
+D:\QuantityMeasurementAppAPI\QuantityMeasurementAPI\bin\Debug\net10.0\System.Composition.Hosting.dll
+D:\QuantityMeasurementAppAPI\QuantityMeasurementAPI\bin\Debug\net10.0\System.Composition.Runtime.dll
+D:\QuantityMeasurementAppAPI\QuantityMeasurementAPI\bin\Debug\net10.0\System.Composition.TypedParts.dll
+D:\QuantityMeasurementAppAPI\QuantityMeasurementAPI\bin\Debug\net10.0\System.Configuration.ConfigurationManager.dll
+D:\QuantityMeasurementAppAPI\QuantityMeasurementAPI\bin\Debug\net10.0\System.IdentityModel.Tokens.Jwt.dll
+D:\QuantityMeasurementAppAPI\QuantityMeasurementAPI\bin\Debug\net10.0\System.Memory.Data.dll
+D:\QuantityMeasurementAppAPI\QuantityMeasurementAPI\bin\Debug\net10.0\System.Security.Cryptography.ProtectedData.dll
+D:\QuantityMeasurementAppAPI\QuantityMeasurementAPI\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\QuantityMeasurementAppAPI\QuantityMeasurementAPI\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\QuantityMeasurementAppAPI\QuantityMeasurementAPI\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\QuantityMeasurementAppAPI\QuantityMeasurementAPI\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\QuantityMeasurementAppAPI\QuantityMeasurementAPI\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\QuantityMeasurementAppAPI\QuantityMeasurementAPI\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\QuantityMeasurementAppAPI\QuantityMeasurementAPI\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\QuantityMeasurementAppAPI\QuantityMeasurementAPI\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\QuantityMeasurementAppAPI\QuantityMeasurementAPI\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\QuantityMeasurementAppAPI\QuantityMeasurementAPI\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\QuantityMeasurementAppAPI\QuantityMeasurementAPI\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\QuantityMeasurementAppAPI\QuantityMeasurementAPI\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\QuantityMeasurementAppAPI\QuantityMeasurementAPI\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\QuantityMeasurementAppAPI\QuantityMeasurementAPI\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\QuantityMeasurementAppAPI\QuantityMeasurementAPI\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\QuantityMeasurementAppAPI\QuantityMeasurementAPI\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\QuantityMeasurementAppAPI\QuantityMeasurementAPI\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\QuantityMeasurementAppAPI\QuantityMeasurementAPI\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\QuantityMeasurementAppAPI\QuantityMeasurementAPI\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\QuantityMeasurementAppAPI\QuantityMeasurementAPI\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\QuantityMeasurementAppAPI\QuantityMeasurementAPI\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\QuantityMeasurementAppAPI\QuantityMeasurementAPI\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\QuantityMeasurementAppAPI\QuantityMeasurementAPI\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\QuantityMeasurementAppAPI\QuantityMeasurementAPI\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\QuantityMeasurementAppAPI\QuantityMeasurementAPI\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\QuantityMeasurementAppAPI\QuantityMeasurementAPI\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\QuantityMeasurementAppAPI\QuantityMeasurementAPI\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\QuantityMeasurementAppAPI\QuantityMeasurementAPI\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\QuantityMeasurementAppAPI\QuantityMeasurementAPI\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\QuantityMeasurementAppAPI\QuantityMeasurementAPI\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\QuantityMeasurementAppAPI\QuantityMeasurementAPI\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\QuantityMeasurementAppAPI\QuantityMeasurementAPI\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\QuantityMeasurementAppAPI\QuantityMeasurementAPI\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\QuantityMeasurementAppAPI\QuantityMeasurementAPI\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\QuantityMeasurementAppAPI\QuantityMeasurementAPI\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\QuantityMeasurementAppAPI\QuantityMeasurementAPI\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\QuantityMeasurementAppAPI\QuantityMeasurementAPI\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\QuantityMeasurementAppAPI\QuantityMeasurementAPI\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\QuantityMeasurementAppAPI\QuantityMeasurementAPI\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\QuantityMeasurementAppAPI\QuantityMeasurementAPI\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\QuantityMeasurementAppAPI\QuantityMeasurementAPI\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\QuantityMeasurementAppAPI\QuantityMeasurementAPI\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\QuantityMeasurementAppAPI\QuantityMeasurementAPI\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\QuantityMeasurementAppAPI\QuantityMeasurementAPI\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\QuantityMeasurementAppAPI\QuantityMeasurementAPI\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\QuantityMeasurementAppAPI\QuantityMeasurementAPI\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\QuantityMeasurementAppAPI\QuantityMeasurementAPI\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\QuantityMeasurementAppAPI\QuantityMeasurementAPI\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\QuantityMeasurementAppAPI\QuantityMeasurementAPI\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\QuantityMeasurementAppAPI\QuantityMeasurementAPI\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\QuantityMeasurementAppAPI\QuantityMeasurementAPI\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\QuantityMeasurementAppAPI\QuantityMeasurementAPI\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\QuantityMeasurementAppAPI\QuantityMeasurementAPI\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\QuantityMeasurementAppAPI\QuantityMeasurementAPI\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\QuantityMeasurementAppAPI\QuantityMeasurementAPI\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\QuantityMeasurementAppAPI\QuantityMeasurementAPI\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\QuantityMeasurementAppAPI\QuantityMeasurementAPI\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\QuantityMeasurementAppAPI\QuantityMeasurementAPI\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\QuantityMeasurementAppAPI\QuantityMeasurementAPI\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\QuantityMeasurementAppAPI\QuantityMeasurementAPI\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\QuantityMeasurementAppAPI\QuantityMeasurementAPI\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\QuantityMeasurementAppAPI\QuantityMeasurementAPI\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\QuantityMeasurementAppAPI\QuantityMeasurementAPI\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\QuantityMeasurementAppAPI\QuantityMeasurementAPI\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\QuantityMeasurementAppAPI\QuantityMeasurementAPI\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\QuantityMeasurementAppAPI\QuantityMeasurementAPI\bin\Debug\net10.0\cs\Microsoft.Data.SqlClient.resources.dll
+D:\QuantityMeasurementAppAPI\QuantityMeasurementAPI\bin\Debug\net10.0\de\Microsoft.Data.SqlClient.resources.dll
+D:\QuantityMeasurementAppAPI\QuantityMeasurementAPI\bin\Debug\net10.0\es\Microsoft.Data.SqlClient.resources.dll
+D:\QuantityMeasurementAppAPI\QuantityMeasurementAPI\bin\Debug\net10.0\fr\Microsoft.Data.SqlClient.resources.dll
+D:\QuantityMeasurementAppAPI\QuantityMeasurementAPI\bin\Debug\net10.0\it\Microsoft.Data.SqlClient.resources.dll
+D:\QuantityMeasurementAppAPI\QuantityMeasurementAPI\bin\Debug\net10.0\ja\Microsoft.Data.SqlClient.resources.dll
+D:\QuantityMeasurementAppAPI\QuantityMeasurementAPI\bin\Debug\net10.0\ko\Microsoft.Data.SqlClient.resources.dll
+D:\QuantityMeasurementAppAPI\QuantityMeasurementAPI\bin\Debug\net10.0\pl\Microsoft.Data.SqlClient.resources.dll
+D:\QuantityMeasurementAppAPI\QuantityMeasurementAPI\bin\Debug\net10.0\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\QuantityMeasurementAppAPI\QuantityMeasurementAPI\bin\Debug\net10.0\ru\Microsoft.Data.SqlClient.resources.dll
+D:\QuantityMeasurementAppAPI\QuantityMeasurementAPI\bin\Debug\net10.0\tr\Microsoft.Data.SqlClient.resources.dll
+D:\QuantityMeasurementAppAPI\QuantityMeasurementAPI\bin\Debug\net10.0\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\QuantityMeasurementAppAPI\QuantityMeasurementAPI\bin\Debug\net10.0\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\QuantityMeasurementAppAPI\QuantityMeasurementAPI\bin\Debug\net10.0\runtimes\unix\lib\net9.0\Microsoft.Data.SqlClient.dll
+D:\QuantityMeasurementAppAPI\QuantityMeasurementAPI\bin\Debug\net10.0\runtimes\win\lib\net9.0\Microsoft.Data.SqlClient.dll
+D:\QuantityMeasurementAppAPI\QuantityMeasurementAPI\bin\Debug\net10.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\QuantityMeasurementAppAPI\QuantityMeasurementAPI\bin\Debug\net10.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\QuantityMeasurementAppAPI\QuantityMeasurementAPI\bin\Debug\net10.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\QuantityMeasurementAppAPI\QuantityMeasurementAPI\bin\Debug\net10.0\QuantityMeasurementAppBusinessLayer.dll
+D:\QuantityMeasurementAppAPI\QuantityMeasurementAPI\bin\Debug\net10.0\QuantityMeasurementAppModelLayer.dll
+D:\QuantityMeasurementAppAPI\QuantityMeasurementAPI\bin\Debug\net10.0\QuantityMeasurementAppRepositoryLayer.dll
+D:\QuantityMeasurementAppAPI\QuantityMeasurementAPI\bin\Debug\net10.0\QuantityMeasurementAppModelLayer.pdb
+D:\QuantityMeasurementAppAPI\QuantityMeasurementAPI\bin\Debug\net10.0\QuantityMeasurementAppBusinessLayer.pdb
+D:\QuantityMeasurementAppAPI\QuantityMeasurementAPI\bin\Debug\net10.0\QuantityMeasurementAppRepositoryLayer.pdb
+D:\QuantityMeasurementAppAPI\QuantityMeasurementAPI\obj\Debug\net10.0\QuantityMeasurementAPI.csproj.AssemblyReference.cache
+D:\QuantityMeasurementAppAPI\QuantityMeasurementAPI\obj\Debug\net10.0\rpswa.dswa.cache.json
+D:\QuantityMeasurementAppAPI\QuantityMeasurementAPI\obj\Debug\net10.0\QuantityMeasurementAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\QuantityMeasurementAppAPI\QuantityMeasurementAPI\obj\Debug\net10.0\QuantityMeasurementAPI.AssemblyInfoInputs.cache
+D:\QuantityMeasurementAppAPI\QuantityMeasurementAPI\obj\Debug\net10.0\QuantityMeasurementAPI.AssemblyInfo.cs
+D:\QuantityMeasurementAppAPI\QuantityMeasurementAPI\obj\Debug\net10.0\QuantityMeasurementAPI.csproj.CoreCompileInputs.cache
+D:\QuantityMeasurementAppAPI\QuantityMeasurementAPI\obj\Debug\net10.0\QuantityMeasurementAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\QuantityMeasurementAppAPI\QuantityMeasurementAPI\obj\Debug\net10.0\QuantityMeasurementAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\QuantityMeasurementAppAPI\QuantityMeasurementAPI\obj\Debug\net10.0\rjimswa.dswa.cache.json
+D:\QuantityMeasurementAppAPI\QuantityMeasurementAPI\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+D:\QuantityMeasurementAppAPI\QuantityMeasurementAPI\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+D:\QuantityMeasurementAppAPI\QuantityMeasurementAPI\obj\Debug\net10.0\scopedcss\bundle\QuantityMeasurementAPI.styles.css
+D:\QuantityMeasurementAppAPI\QuantityMeasurementAPI\obj\Debug\net10.0\staticwebassets.build.json
+D:\QuantityMeasurementAppAPI\QuantityMeasurementAPI\obj\Debug\net10.0\staticwebassets.build.json.cache
+D:\QuantityMeasurementAppAPI\QuantityMeasurementAPI\obj\Debug\net10.0\staticwebassets.development.json
+D:\QuantityMeasurementAppAPI\QuantityMeasurementAPI\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+D:\QuantityMeasurementAppAPI\QuantityMeasurementAPI\obj\Debug\net10.0\swae.build.ex.cache
+D:\QuantityMeasurementAppAPI\QuantityMeasurementAPI\obj\Debug\net10.0\Quantity.37C00F13.Up2Date
+D:\QuantityMeasurementAppAPI\QuantityMeasurementAPI\obj\Debug\net10.0\QuantityMeasurementAPI.dll
+D:\QuantityMeasurementAppAPI\QuantityMeasurementAPI\obj\Debug\net10.0\refint\QuantityMeasurementAPI.dll
+D:\QuantityMeasurementAppAPI\QuantityMeasurementAPI\obj\Debug\net10.0\QuantityMeasurementAPI.pdb
+D:\QuantityMeasurementAppAPI\QuantityMeasurementAPI\obj\Debug\net10.0\QuantityMeasurementAPI.genruntimeconfig.cache
+D:\QuantityMeasurementAppAPI\QuantityMeasurementAPI\obj\Debug\net10.0\ref\QuantityMeasurementAPI.dll

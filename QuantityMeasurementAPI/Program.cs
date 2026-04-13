@@ -10,60 +10,57 @@ using System.Text;
 
 var builder = WebApplication.CreateBuilder(args);
 
-// ── Core Services ──────────────────────────────────────────────────────────
-builder.Services.AddOpenApi();
+// Services
 builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
+
 builder.Services.AddCors(options =>
 {
     options.AddPolicy("AllowAll", policy =>
-    {
-        policy.AllowAnyOrigin().AllowAnyHeader().AllowAnyMethod();
-    });
+        policy.AllowAnyOrigin()
+              .AllowAnyHeader()
+              .AllowAnyMethod());
 });
 
-
-// ── JWT Settings ───────────────────────────────────────────────────────────
+// JWT
 var jwtSettings = new JwtSettings();
 builder.Configuration.GetSection("Jwt").Bind(jwtSettings);
 builder.Services.AddSingleton(jwtSettings);
 
-// ── Entity Framework Core – SQL Server ────────────────────────────────────
-// DbContext is registered here in the API layer and injected into the
-// repository. No more static ConnectionConfig or raw SqlConnection.
 builder.Services.AddDbContext<QuantityMeasurementDbContext>(options =>
     options.UseNpgsql(
         builder.Configuration.GetConnectionString("DefaultConnection")));
 
-// ── JWT Authentication ─────────────────────────────────────────────────────
-builder.Services.AddAuthentication("Bearer").AddJwtBearer("Bearer", options =>
+builder.Services.AddAuthentication("Bearer")
+.AddJwtBearer("Bearer", options =>
 {
     options.TokenValidationParameters = new TokenValidationParameters
     {
-        ValidateIssuer           = true,
-        ValidateAudience         = true,
-        ValidateLifetime         = true,
+        ValidateIssuer = true,
+        ValidateAudience = true,
+        ValidateLifetime = true,
         ValidateIssuerSigningKey = true,
-        ValidIssuer              = jwtSettings.Issuer,
-        ValidAudience            = jwtSettings.Audience,
-        IssuerSigningKey         = new SymmetricSecurityKey(
-                                       Encoding.UTF8.GetBytes(jwtSettings.Key!))
+        ValidIssuer = jwtSettings.Issuer,
+        ValidAudience = jwtSettings.Audience,
+        IssuerSigningKey =
+            new SymmetricSecurityKey(
+                Encoding.UTF8.GetBytes(jwtSettings.Key!))
     };
 });
 
 builder.Services.AddAuthorization();
 
-// ── Dependency Injection ───────────────────────────────────────────────────
+// DI
 builder.Services.AddScoped<IQuantityMeasurementRepository, QuantityMeasurementDatabaseRepository>();
 builder.Services.AddScoped<IAuthService, QuantityMeasurementAuthService>();
 builder.Services.AddScoped<IQuantityMeasurementService, QuantityMeasurementService>();
 
-// ── Build ──────────────────────────────────────────────────────────────────
 var app = builder.Build();
+
 app.UseCors("AllowAll");
 
-// Auto-apply EF Core migrations on startup (creates the DB/tables if needed)
+// Auto migrate
 using (var scope = app.Services.CreateScope())
 {
     try
@@ -77,16 +74,18 @@ using (var scope = app.Services.CreateScope())
     }
 }
 
-// ── Pipeline ───────────────────────────────────────────────────────────────
-if (app.Environment.IsDevelopment() || app.Environment.IsProduction())
-{
-    app.UseSwagger();
-    app.UseSwaggerUI();
-}
+// Swagger always enabled
+app.UseSwagger();
+app.UseSwaggerUI();
 
+// Root route
+app.MapGet("/", () => "QuantityMeasurement API is running");
+
+// Middleware
 app.UseHttpsRedirection();
 app.UseAuthentication();
 app.UseAuthorization();
+
 app.MapControllers();
 
 app.Run();

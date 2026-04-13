@@ -21,13 +21,13 @@ namespace QuantityMeasurementAppRepositoryLayer.Data
             modelBuilder.Entity<UserEntity>(entity =>
             {
                 entity.HasIndex(u => u.Email).IsUnique();
-                entity.Property(u => u.CreatedAt).HasDefaultValueSql("GETUTCDATE()");
+                entity.Property(u => u.CreatedAt).HasDefaultValueSql("NOW()");
             });
 
             // QuantityMeasurements table config
             modelBuilder.Entity<QuantityMeasurementEntity>(entity =>
             {
-                entity.Property(q => q.CreatedAt).HasDefaultValueSql("GETUTCDATE()");
+                entity.Property(q => q.CreatedAt).HasDefaultValueSql("NOW()");
 
                 // Relationship: a measurement optionally belongs to a user
                 entity.HasOne(q => q.User)

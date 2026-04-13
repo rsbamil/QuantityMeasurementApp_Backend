@@ -33,7 +33,8 @@ builder.Services.AddSingleton(jwtSettings);
 // DbContext is registered here in the API layer and injected into the
 // repository. No more static ConnectionConfig or raw SqlConnection.
 builder.Services.AddDbContext<QuantityMeasurementDbContext>(options =>
-    options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
+    options.UseNpgsql(
+        builder.Configuration.GetConnectionString("DefaultConnection")));
 
 // ── JWT Authentication ─────────────────────────────────────────────────────
 builder.Services.AddAuthentication("Bearer").AddJwtBearer("Bearer", options =>
@@ -65,8 +66,15 @@ app.UseCors("AllowAll");
 // Auto-apply EF Core migrations on startup (creates the DB/tables if needed)
 using (var scope = app.Services.CreateScope())
 {
-    var db = scope.ServiceProvider.GetRequiredService<QuantityMeasurementDbContext>();
-    db.Database.Migrate();
+    try
+    {
+        var db = scope.ServiceProvider.GetRequiredService<QuantityMeasurementDbContext>();
+        db.Database.Migrate();
+    }
+    catch (Exception ex)
+    {
+        Console.WriteLine("Migration failed: " + ex.Message);
+    }
 }
 
 // ── Pipeline ───────────────────────────────────────────────────────────────

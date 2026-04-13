@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "p37sUl0tfs4=",
+  "dgSpecHash": "Cy9zQAXxe8k=",
   "success": true,
-  "projectFilePath": "D:\\QuantityMeasurementAppAPI\\QuantityMeasurementAppBusinessLayer\\QuantityMeasurementAppBusinessLayer.csproj",
+  "projectFilePath": "D:\\csharp\\QuantityMeasurementApp_Backend\\QuantityMeasurementAppBusinessLayer\\QuantityMeasurementAppBusinessLayer.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Rohit\\.nuget\\packages\\azure.core\\1.47.1\\azure.core.1.47.1.nupkg.sha512",
     "C:\\Users\\Rohit\\.nuget\\packages\\azure.identity\\1.14.2\\azure.identity.1.14.2.nupkg.sha512",
@@ -66,6 +66,8 @@
     "C:\\Users\\Rohit\\.nuget\\packages\\microsoft.net.http.headers\\2.3.0\\microsoft.net.http.headers.2.3.0.nupkg.sha512",
     "C:\\Users\\Rohit\\.nuget\\packages\\microsoft.sqlserver.server\\1.0.0\\microsoft.sqlserver.server.1.0.0.nupkg.sha512",
     "C:\\Users\\Rohit\\.nuget\\packages\\newtonsoft.json\\9.0.1\\newtonsoft.json.9.0.1.nupkg.sha512",
+    "C:\\Users\\Rohit\\.nuget\\packages\\npgsql\\10.0.2\\npgsql.10.0.2.nupkg.sha512",
+    "C:\\Users\\Rohit\\.nuget\\packages\\npgsql.entityframeworkcore.postgresql\\10.0.1\\npgsql.entityframeworkcore.postgresql.10.0.1.nupkg.sha512",
     "C:\\Users\\Rohit\\.nuget\\packages\\system.clientmodel\\1.5.1\\system.clientmodel.1.5.1.nupkg.sha512",
     "C:\\Users\\Rohit\\.nuget\\packages\\system.configuration.configurationmanager\\9.0.4\\system.configuration.configurationmanager.9.0.4.nupkg.sha512",
     "C:\\Users\\Rohit\\.nuget\\packages\\system.diagnostics.eventlog\\9.0.4\\system.diagnostics.eventlog.9.0.4.nupkg.sha512",
@@ -79,9 +81,9 @@
       "code": "NU1903",
       "level": "Warning",
       "message": "Package 'Newtonsoft.Json' 9.0.1 has a known high severity vulnerability, https://github.com/advisories/GHSA-5crp-9r3c-p9vr",
-      "projectPath": "D:\\QuantityMeasurementAppAPI\\QuantityMeasurementAppBusinessLayer\\QuantityMeasurementAppBusinessLayer.csproj",
+      "projectPath": "D:\\csharp\\QuantityMeasurementApp_Backend\\QuantityMeasurementAppBusinessLayer\\QuantityMeasurementAppBusinessLayer.csproj",
       "warningLevel": 1,
-      "filePath": "D:\\QuantityMeasurementAppAPI\\QuantityMeasurementAppBusinessLayer\\QuantityMeasurementAppBusinessLayer.csproj",
+      "filePath": "D:\\csharp\\QuantityMeasurementApp_Backend\\QuantityMeasurementAppBusinessLayer\\QuantityMeasurementAppBusinessLayer.csproj",
       "libraryId": "Newtonsoft.Json",
       "targetGraphs": [
         "net10.0"

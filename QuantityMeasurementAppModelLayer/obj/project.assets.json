@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\QuantityMeasurementAppAPI\\QuantityMeasurementAppModelLayer\\QuantityMeasurementAppModelLayer.csproj",
+      "projectUniqueName": "D:\\csharp\\QuantityMeasurementApp_Backend\\QuantityMeasurementAppModelLayer\\QuantityMeasurementAppModelLayer.csproj",
       "projectName": "QuantityMeasurementAppModelLayer",
-      "projectPath": "D:\\QuantityMeasurementAppAPI\\QuantityMeasurementAppModelLayer\\QuantityMeasurementAppModelLayer.csproj",
+      "projectPath": "D:\\csharp\\QuantityMeasurementApp_Backend\\QuantityMeasurementAppModelLayer\\QuantityMeasurementAppModelLayer.csproj",
       "packagesPath": "C:\\Users\\Rohit\\.nuget\\packages\\",
-      "outputPath": "D:\\QuantityMeasurementAppAPI\\QuantityMeasurementAppModelLayer\\obj\\",
+      "outputPath": "D:\\csharp\\QuantityMeasurementApp_Backend\\QuantityMeasurementAppModelLayer\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

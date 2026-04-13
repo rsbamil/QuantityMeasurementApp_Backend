@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "vgsz7wVNdFU=",
+  "dgSpecHash": "pFpw/4itsNw=",
   "success": true,
-  "projectFilePath": "D:\\QuantityMeasurementAppAPI\\QuantityMeasurementAppModelLayer\\QuantityMeasurementAppModelLayer.csproj",
+  "projectFilePath": "D:\\csharp\\QuantityMeasurementApp_Backend\\QuantityMeasurementAppModelLayer\\QuantityMeasurementAppModelLayer.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

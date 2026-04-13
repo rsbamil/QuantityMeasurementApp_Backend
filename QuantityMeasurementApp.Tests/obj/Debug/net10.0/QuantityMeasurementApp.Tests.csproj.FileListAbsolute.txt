@@ -272,3 +272,14 @@ C:\Users\DELL\Desktop\Practice\QuantityMeasurementApp\QuantityMeasurementApp.Tes
 C:\Users\DELL\Desktop\Practice\QuantityMeasurementApp\QuantityMeasurementApp.Tests\obj\Debug\net10.0\QuantityMeasurementApp.Tests.pdb
 C:\Users\DELL\Desktop\Practice\QuantityMeasurementApp\QuantityMeasurementApp.Tests\obj\Debug\net10.0\QuantityMeasurementApp.Tests.genruntimeconfig.cache
 C:\Users\DELL\Desktop\Practice\QuantityMeasurementApp\QuantityMeasurementApp.Tests\obj\Debug\net10.0\ref\QuantityMeasurementApp.Tests.dll
+D:\csharp\QuantityMeasurementApp_Backend\QuantityMeasurementApp.Tests\obj\Debug\net10.0\QuantityMeasurementApp.Tests.csproj.AssemblyReference.cache
+D:\csharp\QuantityMeasurementApp_Backend\QuantityMeasurementApp.Tests\obj\Debug\net10.0\QuantityMeasurementApp.Tests.GeneratedMSBuildEditorConfig.editorconfig
+D:\csharp\QuantityMeasurementApp_Backend\QuantityMeasurementApp.Tests\obj\Debug\net10.0\QuantityMeasurementApp.Tests.gentestingplatformentrypointinputcache.cache
+D:\csharp\QuantityMeasurementApp_Backend\QuantityMeasurementApp.Tests\obj\Debug\net10.0\QuantityMeasurementApp.Tests.genautoregisteredextensionsinputcache.cache
+D:\csharp\QuantityMeasurementApp_Backend\QuantityMeasurementApp.Tests\obj\Debug\net10.0\QuantityMeasurementApp.Tests.AssemblyInfoInputs.cache
+D:\csharp\QuantityMeasurementApp_Backend\QuantityMeasurementApp.Tests\obj\Debug\net10.0\QuantityMeasurementApp.Tests.AssemblyInfo.cs
+D:\csharp\QuantityMeasurementApp_Backend\QuantityMeasurementApp.Tests\obj\Debug\net10.0\QuantityMeasurementApp.Tests.csproj.CoreCompileInputs.cache
+D:\csharp\QuantityMeasurementApp_Backend\QuantityMeasurementApp.Tests\obj\Debug\net10.0\QuantityMeasurementApp.Tests.sourcelink.json
+D:\csharp\QuantityMeasurementApp_Backend\QuantityMeasurementApp.Tests\obj\Debug\net10.0\QuantityMeasurementApp.Tests.dll
+D:\csharp\QuantityMeasurementApp_Backend\QuantityMeasurementApp.Tests\obj\Debug\net10.0\refint\QuantityMeasurementApp.Tests.dll
+D:\csharp\QuantityMeasurementApp_Backend\QuantityMeasurementApp.Tests\obj\Debug\net10.0\QuantityMeasurementApp.Tests.pdb
